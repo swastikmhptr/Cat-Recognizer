@@ -16,3 +16,4 @@ The output from the sigmoid activated layer is then rounded to one integer value
 OUTPUT:- 0=The image is not of a cat, 1=The given image is of a cat
 
 Reault:- with the proposed 3 layer neural network an accuracy of >85% was obtained on the test dataset(without overfitting)
+          , this result was obtained using only ~2MB of .h5 format image data
